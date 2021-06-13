@@ -18,33 +18,43 @@ const promptUser = () => {
                 case 'View All Employees':
                     viewAllEmp();
                     break;
+
                 case 'View All Employees By Department':
                     viewEmpByDep();
                     break;
+
                 case 'View All Employees By Manager':
                     viewEmpByMngt();
                     break;
+
                 case 'Add Employee':
                     addEmp();
                     break;
+
                 case 'Update Employee Role':
                     upEmp();
                     break;
+
                 case 'View Departments':
                     viewDep();
                     break;
+
                 case 'Add Department':
                     addDep();
                     break;
+
                 case 'View Roles':
                     viewRoles();
                     break;
+
                 case 'Add Role':
                     addRole();
                     break;
+
                 case 'View totalized budget':
                     addTotalByDep();
                     break;
+                    
                 case 'I am finished':
                     break;
             }

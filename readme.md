@@ -1,5 +1,8 @@
 # SQL Employee Tracker
 
+# LINK TO VIDEO -
+ chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/b0f3a6fd-b34f-4e10-y95e-97818df71a7f?autostopped
+
 ## Table of Contents:
   1. [Description](#description) 
   2. [Installation](#Installation)
